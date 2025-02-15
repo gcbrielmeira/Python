@@ -30,5 +30,16 @@ cores = ("vermelho" , "branco" , " preto ")
 # dict
 pessoa = {
 
-    "nome" 
+    "nome" : "Arthur", 
+    "idade" : 27
+    "cidade": "São Paulo"
 }
+
+
+#set 
+numeros = { 1, 2, 2, 3, 4 }
+# set nao armazena numeros iguais, somente unicos
+# numeros = ( 1, 2, 3, 4 )
+
+
+
