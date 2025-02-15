@@ -31,8 +31,8 @@ cores = ("vermelho" , "branco" , " preto ")
 pessoa = {
 
     "nome" : "Arthur", 
-    "idade" : 27
-    "cidade": "São Paulo"
+    "idade" : 27 ,
+    "cidade" : "São Paulo",
 }
 
 
