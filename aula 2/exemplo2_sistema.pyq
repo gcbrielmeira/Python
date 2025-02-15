@@ -1,0 +1,9 @@
+
+# Sistema de descontos de veiculos
+# Solicite o nome do veiculo
+# E o preço do veiculo
+# Se o preço > 80k -> 60% de desconto
+# Se o preço > 50k -> 30% de desconto
+# Se o preço < 30k -> Não existe desconto
+
+
