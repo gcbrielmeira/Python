@@ -22,4 +22,13 @@ lista = [1,2,3 ]
 # vetor
 # adicionar, editar, remover
 
+# tuplas
+# estruturas ordenada
+# tupla é imutavel
+cores = ("vermelho" , "branco" , " preto ")
 
+# dict
+pessoa = {
+
+    "nome" 
+}
